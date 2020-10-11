@@ -104,6 +104,18 @@
 ---
 <br>
 
+## GET getSingleMovie
+---
+### METHOD GET (https://quiet-hollows-95792.herokuapp.com/getSingleMovie)
+### Request header
+> none
+### Request query
+> "id": "<asset_id>"
+### Request Body
+> #### **Movie Table** <br> "title": "<asset_title>"<br> "poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": "<asset_category>"
+>  #### **Review Table** <br> "userId" : "<asset_userId>"<br> "MovieId": "<asset_MovieId>" <br> "rating": "<asset_rating>" <br> "content": "<asset_content>" <br>
+> #### **User Table** <br> "email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> "image": "<asset_image>" <br> 
+
 ## Search by Title
 ---
 ### Method GET (https://quiet-hollows-95792.herokuapp.com/titlesearch)
