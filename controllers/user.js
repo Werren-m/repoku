@@ -43,7 +43,7 @@ class UserController {
 	static async getUser(req, res) {
 		const { id } = req.userData;
 		try{
-			const test = await reviews.findAll({where: {userid: id,isVisible: "true"}})
+			const test = await reviews.findAll({where: {userId: id,isVisible: "true"}})
 			const users = await user.findOne({where: {id}})
 			res.status(200).json({users,test})
 		}catch (err) {
