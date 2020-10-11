@@ -8,10 +8,10 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      userid: {
+      userId: {
         type: Sequelize.INTEGER
       },
-      Movieid: {
+      MovieId: {
         type: Sequelize.INTEGER
       },
       content: {
