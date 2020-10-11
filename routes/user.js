@@ -5,6 +5,7 @@ const { uploadUser } = require("../middlewares/multer");
 
 const UserController = require("../controllers/user");
 
+router.get("/alluser",UserController.getAllUser);
 router.get("/", auth.authentication, UserController.getUser);
 router.delete("/", auth.authentication, UserController.deleteUser);
 router.get("/edit/", auth.authentication, UserController.getUser);
