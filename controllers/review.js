@@ -115,11 +115,11 @@ class ReviewController {
 	}
 
 	static async deleteReview(req, res) {
-		// const userId = req.userData.id;
-		const MovieId = req.query.MovieId;
+		const userId = req.userData.id;
+		const {id} = req.query;
 		reviews
 			.destroy({
-				where: { userId, MovieId },
+				where: { userId, id },
 			})
 			.then(() => res.status(200).json({ msg: "Review deleted successfully" }))
 			.catch((err) => res.status(500).json({msg: err.errors[0].message}));

@@ -287,11 +287,11 @@
 
 ## DELETE Review
 ---
-### Method UPDATE (https://quiet-hollows-95792.herokuapp.com/review/)
+### Method DELETE (https://quiet-hollows-95792.herokuapp.com/review/)
 ### Request Header
 > "token": "<your_token>"
 ### Request Query
-> "MovieId": "<movie_id>"
+> "id": "<asset_id>"
 ### Request Body
 > "content": "<asset_content>"<br> "rating": 
 ### Response (200)
