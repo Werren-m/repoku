@@ -43,7 +43,7 @@ module.exports = (sequelize, DataTypes) => {
 			hooks: {
 				beforeCreate(user) {
 					user.password = encryptPwd(user.password);
-					user.image = "https://gyazo.com/a5eb454d32939ba6fc02870a7dca41a5";
+					user.image = "https://cdn.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png";
 				},
 				beforeBulkUpdate(user) {
 					user.attributes.password = encryptPwd(user.attributes.password);
