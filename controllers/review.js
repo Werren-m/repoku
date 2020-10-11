@@ -32,10 +32,9 @@ class ReviewController {
 
 	static async getReview(req, res) {
 		const userId = req.userData.id;
-		const { MovieId } = req.query;
 		try {
 			const found = await reviews.findOne({
-				where: { userId, MovieId },
+				where: { userId },
 				include: [user, Movies],
 			});
 			if (found) {

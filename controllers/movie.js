@@ -1,4 +1,4 @@
-const { Movies } = require("../models/");
+const { Movies,user,reviews } = require("../models/");
 const Sequelize = require("sequelize");
 
 class MovieController {
@@ -74,6 +74,23 @@ class MovieController {
 			res.status(400).json({ msg: "Unauthorized access" });
 		}
 	}
+
+	static async getSingleMovie(req, res) {
+		const id = req.query.id;
+		const review = await reviews.findAll({
+			where: {MovieId: id},include: [user]
+		})
+		const movie = await Movies.findOne({
+			where: { id }
+		});
+		if (movie) {
+			res.status(200).json({movie,review});
+		} else {
+			res.status(404).json({ msg: "Movie not found" });
+		}
+	}
+	
+
 
 	static async editFormMovie(req, res) {
 		const { role } = req.userData;
