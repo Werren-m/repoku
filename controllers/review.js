@@ -30,7 +30,25 @@ class ReviewController {
 			.catch((err) => res.status(500).json({msg: err.errors[0].message}));
 	}
 
+
 	static async getReview(req, res) {
+		const userId = req.userData.id;
+		try {
+			const found = await reviews.findAll({
+				where: { userId },
+				include: [user, Movies],
+			});
+			if (found) {
+				res.status(200).json(found);
+			} else {
+				res.status(404).json({ msg: "review not found" });
+			}
+		} catch {
+			res.status(500).json({ msg: "Internal Server Error" });
+		}
+	}
+	
+	static async getUserReview(req, res) {
 		const userId = req.userData.id;
 		try {
 			const found = await reviews.findOne({
@@ -120,8 +138,6 @@ class ReviewController {
 		}catch (err){
 			res.status(500).json({msg: err.errors[0].message})
 		}
-
-		
 		console.log(rating);		
 	}
 }
