@@ -17,7 +17,7 @@ router.put(
 router.put(
 	"/edit/image",  uploadUser.single("image"),
 	auth.authentication,
-	UserController.updateUser
+	UserController.updateUserImage
 );
 
 module.exports = router;
