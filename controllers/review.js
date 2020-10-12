@@ -129,8 +129,8 @@ class ReviewController {
 		const MovieId = req.query.MovieId;
 		try{
 			const review = await reviews.findAll({where: {MovieId}})
-			const movie = await Movies.findOne({where: {id: MovieId}})
-			let rating = movie.rating;
+			// const movie = await Movies.findOne({where: {id: MovieId}})
+			// let rating = movie.rating;
 			review.forEach(review => rating+= review.rating);
 			rating = rating/review.length;
 			const updated = await Movies.update({rating},{where: {id:MovieId}})
