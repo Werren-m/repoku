@@ -134,7 +134,7 @@ class ReviewController {
 			review.forEach(review => rating+= review.rating);
 			rating = rating/review.length;
 			const updated = await Movies.update({rating},{where: {id:MovieId}})
-			res.status(200).json({updated})
+			res.status(200).json({updated},{msg: "Update successful"})
 		}catch (err){
 			res.status(500).json({msg: err.errors[0].message})
 		}		

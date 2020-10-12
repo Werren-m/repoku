@@ -70,24 +70,24 @@ class UserController {
 					where: { id }
 				}
 			)
-			res.status(200).json(done);
+			res.status(200).json(done,{msg: "Update successful"});
 		} catch (err) {
 			res.status(500).json({err});
 		}
 	}
 
-	// static async updateUserImage(req,res){
-	// 	const {id} = req.userData;
-	// 	const image = req.file.path;
-	// 	try{
-	// 		const updateImg = await user.update({image},
-	// 			{where: {id}}
-	// 			);
-	// 		res.status(200).json({updateImg})
-	// 	}catch(err){
-	// 		res.status(500).json({msg: err.errors[0].message});
-	// 	}
-	// }
+	static async updateUserImage(req,res){
+		const {id} = req.userData;
+		const image = req.file.path;
+		try{
+			const updateImg = await user.update({image},
+				{where: {id}}
+				);
+			res.status(200).json({updateImg},{msg: "Update successful"})
+		}catch(err){
+			res.status(500).json({msg: err.errors[0].message});
+		}
+	}
 
 	static async register(req, res) {
 		const { email, password, name, role } = req.body;
