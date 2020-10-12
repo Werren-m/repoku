@@ -10,8 +10,12 @@ router.get("/", auth.authentication, UserController.getUser);
 router.delete("/", auth.authentication, UserController.deleteUser);
 router.get("/edit/", auth.authentication, UserController.getUserDetails);
 router.put(
-	"/edit/",
-	uploadUser.single("image"),
+	"/edit/", 
+	auth.authentication,
+	UserController.updateUser
+);
+router.put(
+	"/edit/image",  uploadUser.single("image"),
 	auth.authentication,
 	UserController.updateUser
 );

@@ -1,13 +1,12 @@
-
 [
     {
         "title": "365 Days",
-        "synopsis": "Massimo is a member of the Sicilian Mafia family and Laura is a sales director. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
+        "synopsis": "Massimo is a member of the Sicilian Mafia family and Laura is a sales backdrop. She does not expect that on a trip to Sicily trying to save her relationship, Massimo will kidnap her and give her 365 days to fall in love with him.",
         "rating": 2020,
         "trailer": "https://youtu.be/7OE6Fcr0XcY",
         "poster": "https://upload.wikimedia.org/wikipedia/en/3/32/365_Dni_film_poster.png",
-        "director": "Barbara Białowąs, Tomasz Mandes",
-        "budget": "$9,458,333"
+        "backdrop": "Barbara Białowąs, Tomasz Mandes",
+        "category": "$9,458,333"
     },
     {
         "title": "Mulan",
@@ -15,8 +14,8 @@
         "rating": 2020,
         "trailer": "https://youtu.be/KK8FHdFluOQ",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Mulan_%282020_film%29_poster.jpg/220px-Mulan_%282020_film%29_poster.jpg",
-        "director": "Niki Caro",
-        "budget": "$67,695,650"
+        "backdrop": "Niki Caro",
+        "category": "$67,695,650"
     },
     {
         "title": "Avengers: Endgame",
@@ -24,8 +23,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/TcMBFSGVi1c",
         "poster": "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",
-        "director": "Joe Russo, Anthony Russo",
-        "budget": "$48,761,132"
+        "backdrop": "Joe Russo, Anthony Russo",
+        "category": "$48,761,132"
     },
     {
         "title": "Joker",
@@ -33,8 +32,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/zAGVQLHvwOY",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Joker_%282019_film%29_poster.jpg/220px-Joker_%282019_film%29_poster.jpg",
-        "director": "Todd Phillips",
-        "budget": "$55,000,000"
+        "backdrop": "Todd Phillips",
+        "category": "$55,000,000"
     },
     {
         "title": "Deadpool",
@@ -42,8 +41,8 @@
         "rating": 2016,
         "trailer": "https://youtu.be/ONHBaC-pfsk",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Deadpool_%282016_poster%29.png/220px-Deadpool_%282016_poster%29.png",
-        "director": "Tim Miller",
-        "budget": "$58,000,000"
+        "backdrop": "Tim Miller",
+        "category": "$58,000,000"
     },
     {
         "title": "Deadpool 2",
@@ -51,8 +50,8 @@
         "rating": 2018,
         "trailer": "https://youtu.be/D86RtevtfrA",
         "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg",
-        "director": "David Leitch",
-        "budget": "$110,000,000"
+        "backdrop": "David Leitch",
+        "category": "$110,000,000"
     },
     {
         "title": "The Matrix Reloaded",
@@ -60,8 +59,8 @@
         "rating": 2003,
         "trailer": "https://youtu.be/hMbexEPAOQI",
         "poster": "https://upload.wikimedia.org/wikipedia/en/b/ba/Poster_-_The_Matrix_Reloaded.jpg",
-        "director": "Lana and Lilly Wachowski",
-        "budget": "$150,000,000 "
+        "backdrop": "Lana and Lilly Wachowski",
+        "category": "$150,000,000 "
     },
     {
         "title": "IT",
@@ -69,8 +68,8 @@
         "rating": 2017,
         "trailer": "https://youtu.be/FnCdOQsX5kc",
         "poster": "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
-        "director": "Andy Muschietti",
-        "budget": "$35,000,000"
+        "backdrop": "Andy Muschietti",
+        "category": "$35,000,000"
     },
     {
         "title": "IT Chapter 2",
@@ -78,8 +77,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/bKL1ImsN-DU",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/ItChapterTwoTeaser.jpg/220px-ItChapterTwoTeaser.jpg",
-        "director": "Andy Muschietti",
-        "budget": "$79,000,000"
+        "backdrop": "Andy Muschietti",
+        "category": "$79,000,000"
     },
     {
         "title": "Logan",
@@ -87,8 +86,8 @@
         "rating": 2017,
         "trailer": "https://youtu.be/gbug3zTm3Ws",
         "poster": "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",
-        "director": "James Mangold",
-        "budget": "$127,000,000"
+        "backdrop": "James Mangold",
+        "category": "$127,000,000"
     },
     {
         "title": "Fifty Shades of Grey",
@@ -96,8 +95,8 @@
         "rating": 2015,
         "trailer": "https://youtu.be/SfZWFDs0LxA",
         "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/Fifty_Shades_of_Grey_poster.jpg",
-        "director": "Sam Taylor-Johnson",
-        "budget": "$40,000,000"
+        "backdrop": "Sam Taylor-Johnson",
+        "category": "$40,000,000"
     },
     {
         "title": "Ted",
@@ -105,8 +104,8 @@
         "rating": 2012,
         "trailer": "https://youtu.be/9fbo_pQvU7M",
         "poster": "https://en.wikipedia.org/wiki/File:Ted_poster.jpg",
-        "director": "Seth MacFarlane",
-        "budget": "$50,000,000"
+        "backdrop": "Seth MacFarlane",
+        "category": "$50,000,000"
     },
     {
         "title": "Ted 2",
@@ -114,8 +113,8 @@
         "rating": 2015,
         "trailer": "https://youtu.be/S3AVcCggRnU",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Ted_2_poster.jpg/220px-Ted_2_poster.jpg",
-        "director": "Seth MacFarlane",
-        "budget": "$68,000,000"
+        "backdrop": "Seth MacFarlane",
+        "category": "$68,000,000"
     },
     {
         "title": "The Lion King",
@@ -123,8 +122,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/7TavVZMewpY",
         "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Disney_The_Lion_King_2019.jpg",
-        "director": "Jon Favreau",
-        "budget": "$260,000,000"
+        "backdrop": "Jon Favreau",
+        "category": "$260,000,000"
     },
     {
         "title": "Frozen II",
@@ -132,8 +131,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/Zi4LMpSDccc",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Frozen_2_poster.jpg/220px-Frozen_2_poster.jpg",
-        "director": "Chris Buck, Jennifer Lee",
-        "budget": "$150,000,000"
+        "backdrop": "Chris Buck, Jennifer Lee",
+        "category": "$150,000,000"
     },
     {
         "title": "Spider-Man: Far From Home",
@@ -141,8 +140,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/DYYtuKyMtY8",
         "poster": "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
-        "director": "Jon Watts",
-        "budget": "$160,000,000"
+        "backdrop": "Jon Watts",
+        "category": "$160,000,000"
     },
     {
         "title": "Captain Marvel",
@@ -150,8 +149,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/moY78qMJuxM",
         "poster": "https://en.wikipedia.org/wiki/File:Captain_Marvel_poster.jpg",
-        "director": "Anna Boden, Ryan Fleck",
-        "budget": "$175,000,000"
+        "backdrop": "Anna Boden, Ryan Fleck",
+        "category": "$175,000,000"
     },
     {
         "title": "Toy Story 4",
@@ -159,8 +158,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/wmiIUN-7qhE",
         "poster": "https://upload.wikimedia.org/wikipedia/en/4/4c/Toy_Story_4_poster.jpg",
-        "director": "Josh Cooley",
-        "budget": "$200,000,000"
+        "backdrop": "Josh Cooley",
+        "category": "$200,000,000"
     },
     {
         "title": "Star Wars: The Rise of Skywalker",
@@ -168,8 +167,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/8Qn_spdM5Zg",
         "poster": "https://upload.wikimedia.org/wikipedia/en/a/af/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
-        "director": "J. J. Abrams",
-        "budget": "$275,000,000"
+        "backdrop": "J. J. Abrams",
+        "category": "$275,000,000"
     },
     {
         "title": "Jumanji: The Next Level",
@@ -177,8 +176,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/rBxcF-r9Ibs",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/JumanjiTheNextLevelTeaserPoster.jpg/220px-JumanjiTheNextLevelTeaserPoster.jpg",
-        "director": "Jake Kasdan",
-        "budget": "$125,000,000"
+        "backdrop": "Jake Kasdan",
+        "category": "$125,000,000"
     },
     {
         "title": "Fast & Furious Presents: Hobbs & Shaw",
@@ -186,8 +185,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/9SA7FaKxZVI",
         "poster": "https://en.wikipedia.org/wiki/File:Fast_%26_Furious_Presents_Hobbs_%26_Shaw_-_theatrical_poster.jpg",
-        "director": "David Leitch",
-        "budget": "$200,000,000"
+        "backdrop": "David Leitch",
+        "category": "$200,000,000"
     },
     {
         "title": "How to Train Your Dragon: The Hidden World",
@@ -195,8 +194,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/SkcucKDrbOI",
         "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png",
-        "director": "Dean DeBlois",
-        "budget": "$129,000,000"
+        "backdrop": "Dean DeBlois",
+        "category": "$129,000,000"
     },
     {
         "title": "Maleficent: Mistress of Evil",
@@ -204,8 +203,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/n0OFH4xpPr4",
         "poster": "https://upload.wikimedia.org/wikipedia/en/7/7b/Maleficent_Mistress_of_Evil_%28Official_Film_Poster%29.png",
-        "director": "Joachim Ronning",
-        "budget": "$185,000,000"
+        "backdrop": "Joachim Ronning",
+        "category": "$185,000,000"
     },
     {
         "title": "The Secret Life of Pets 2",
@@ -213,8 +212,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/mYocfuqu2A8",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/The_Secret_Life_of_Pets_2_%282019%29_Final_Poster.jpg/220px-The_Secret_Life_of_Pets_2_%282019%29_Final_Poster.jpg",
-        "director": "Chris Renaud",
-        "budget": "$80,000,000"
+        "backdrop": "Chris Renaud",
+        "category": "$80,000,000"
     },
     {
         "title": "Pokémon: Detective Pikachu",
@@ -222,8 +221,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/du88WArjb8w",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg/220px-Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg",
-        "director": "Rob Letterman",
-        "budget": "$150,000,000"
+        "backdrop": "Rob Letterman",
+        "category": "$150,000,000"
     },
     {
         "title": "Alita: Battle Angel ",
@@ -231,8 +230,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/w7pYhpJaJW8",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png",
-        "director": "Robert Rodriguez",
-        "budget": "$170,000,000"
+        "backdrop": "Robert Rodriguez",
+        "category": "$170,000,000"
     },
     {
         "title": "Godzilla: King of the Monsters",
@@ -240,8 +239,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/QFxN2oDKk0E",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png/220px-Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png",
-        "director": "Michael Dougherty",
-        "budget": "$170,000,000"
+        "backdrop": "Michael Dougherty",
+        "category": "$170,000,000"
     },
     {
         "title": "Once Upon a Time…in Hollywood",
@@ -249,8 +248,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/ELeMaP8EPAA",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Once_Upon_a_Time_in_Hollywood_poster.png/220px-Once_Upon_a_Time_in_Hollywood_poster.png",
-        "director": "Quentin Tarantino",
-        "budget": "$90,000,000"
+        "backdrop": "Quentin Tarantino",
+        "category": "$90,000,000"
     },
     {
         "title": "1917",
@@ -258,8 +257,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/YqNYrYUiMfg",
         "poster": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-        "director": "Sam Mendes",
-        "budget": "$100,000,000"
+        "backdrop": "Sam Mendes",
+        "category": "$100,000,000"
     },
     {
         "title": "Shazam!",
@@ -267,8 +266,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/go6GEIrcvFY",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Shazam%21_theatrical_poster.jpg/220px-Shazam%21_theatrical_poster.jpg",
-        "director": "David F. Sandberg",
-        "budget": "$85,000,000"
+        "backdrop": "David F. Sandberg",
+        "category": "$85,000,000"
     },
     {
         "title": "Dumbo",
@@ -276,8 +275,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/-QPdRfqTnt4",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Dumbo_%282019_film%29.png/220px-Dumbo_%282019_film%29.png",
-        "director": "Tim Burton",
-        "budget": "$170,000,000"
+        "backdrop": "Tim Burton",
+        "category": "$170,000,000"
     },
     {
         "title": "John Wick: Chapter 3 — Parabellum",
@@ -285,8 +284,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/pU8-7BX9uxs",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/John_Wick_Chapter_3_Parabellum.png/220px-John_Wick_Chapter_3_Parabellum.png",
-        "director": "Chad Stahelski",
-        "budget": "$40,000,000"
+        "backdrop": "Chad Stahelski",
+        "category": "$40,000,000"
     },
     {
         "title": "Knives Out",
@@ -294,8 +293,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/sL-9Khv7wa4",
         "poster": "https://upload.wikimedia.org/wikipedia/en/1/1f/Knives_Out_poster.jpeg",
-        "director": "Rian Johnson",
-        "budget": "$40,000,000"
+        "backdrop": "Rian Johnson",
+        "category": "$40,000,000"
     },
     {
         "title": "Us",
@@ -303,8 +302,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/hNCmb-4oXJA",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Us_%282019%29_theatrical_poster.png/220px-Us_%282019%29_theatrical_poster.png",
-        "director": "Jordan Peele",
-        "budget": "$20,000,000"
+        "backdrop": "Jordan Peele",
+        "category": "$20,000,000"
     },
     {
         "title": "Men in Black: International",
@@ -312,8 +311,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/BV-WEb2oxLk",
         "poster": "https://upload.wikimedia.org/wikipedia/en/1/1b/Men_in_Black_International_%28Official_Film_Poster%29.png",
-        "director": "F. Gary Gray",
-        "budget": "$110,000,000"
+        "backdrop": "F. Gary Gray",
+        "category": "$110,000,000"
     },
     {
         "title": "Terminator: Dark Fate",
@@ -321,8 +320,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/oxy8udgWRmo",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Terminator_Dark_Fate_poster.jpg/220px-Terminator_Dark_Fate_poster.jpg",
-        "director": "Tim Miller",
-        "budget": "$185,000,000"
+        "backdrop": "Tim Miller",
+        "category": "$185,000,000"
     },
     {
         "title": "Glass",
@@ -330,8 +329,8 @@
         "year": 2019,
         "trailer": "https://youtu.be/95ghQs5AmNk",
         "poster": "https://upload.wikimedia.org/wikipedia/en/0/01/Glass_%282019_poster%29.png",
-        "director": "M. Night Shyamalan",
-        "budget": "$20,000,000"
+        "backdrop": "M. Night Shyamalan",
+        "category": "$20,000,000"
     },
     {
         "title": "Dark Phoenix",
@@ -339,8 +338,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/1-q8C_c-nlM",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Dark_Phoenix_%28film%29.png/220px-Dark_Phoenix_%28film%29.png",
-        "director": "Simon Kinberg",
-        "budget": "$200,000,000"
+        "backdrop": "Simon Kinberg",
+        "category": "$200,000,000"
     },
     {
         "title": "Annabelle Comes Home",
@@ -348,8 +347,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/bCxm7cTpBAs",
         "poster": "https://upload.wikimedia.org/wikipedia/en/5/50/AnnabelleComesHomePoster.jpg",
-        "director": "Gary Dauberman",
-        "budget": "$27,000,000"
+        "backdrop": "Gary Dauberman",
+        "category": "$27,000,000"
     },
     {
         "title": "Ford v. Ferrari",
@@ -357,8 +356,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/zyYgDtY2AMY",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png/220px-Ford_v._Ferrari_%282019_film_poster%29.png",
-        "director": "James Mangold",
-        "budget": "$97,600,000 "
+        "backdrop": "James Mangold",
+        "category": "$97,600,000 "
     },
     {
         "title": "Little Women",
@@ -366,8 +365,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/AST2-4db4ic",
         "poster": "https://upload.wikimedia.org/wikipedia/en/9/9d/Little_Women_%282019_film%29.jpeg",
-        "director": "Greta Gerwig",
-        "budget": "$42,000,000"
+        "backdrop": "Greta Gerwig",
+        "category": "$42,000,000"
     },
     {
         "title": "The Addams Family ",
@@ -375,8 +374,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/F7Ug863S8dQ",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/The_Addams_Family_%282019_film%29.png/220px-The_Addams_Family_%282019_film%29.png",
-        "director": "Conrad Vernon, Greg Tiernan",
-        "budget": "$24,000,000"
+        "backdrop": "Conrad Vernon, Greg Tiernan",
+        "category": "$24,000,000"
     },
     {
         "title": "Ip Man 4",
@@ -384,8 +383,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/oCBGTCNJW2g",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Ip_Man_4_poster.png/220px-Ip_Man_4_poster.png",
-        "director": "Wilson Yip",
-        "budget": "$52,000,000"
+        "backdrop": "Wilson Yip",
+        "category": "$52,000,000"
     },
     {
         "title": "The LEGO Movie 2: The Second Part",
@@ -393,8 +392,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/cksYkEzUa7k",
         "poster": "https://upload.wikimedia.org/wikipedia/en/f/fd/The_Lego_Movie_2_The_Second_Part_theatrical_poster.jpg",
-        "director": "Mike Mitchell",
-        "budget": "$99,000,000 "
+        "backdrop": "Mike Mitchell",
+        "category": "$99,000,000 "
     },
     {
         "title": "Tenki no Ko",
@@ -402,8 +401,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/Q6iK6DjV_iE",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Weathering_with_You_Poster.jpg/220px-Weathering_with_You_Poster.jpg",
-        "director": "Makoto Shinkai",
-        "budget": "$11,100,000"
+        "backdrop": "Makoto Shinkai",
+        "category": "$11,100,000"
     },
     {
         "title": "Abominable",
@@ -411,8 +410,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/XrgVtuDRBjM",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Abominable_%282019_poster%29.png/220px-Abominable_%282019_poster%29.png",
-        "director": "Jill Culton",
-        "budget": "$75,000,000"
+        "backdrop": "Jill Culton",
+        "category": "$75,000,000"
     },
     {
         "title": "The White Storm 2: Drug Lords",
@@ -420,8 +419,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/TCb64YmbSx8",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/TheWhiteStorm2DrugLords.jpg/220px-TheWhiteStorm2DrugLords.jpg",
-        "director": "Herman Yau",
-        "budget": "$25,000,000"
+        "backdrop": "Herman Yau",
+        "category": "$25,000,000"
     },
     {
         "title": "Gemini Man",
@@ -429,8 +428,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/AbyJignbSj0",
         "poster": "https://upload.wikimedia.org/wikipedia/en/5/5b/GeminiManPoster.jpeg",
-        "director": "Ang Lee",
-        "budget": "$140,000,000"
+        "backdrop": "Ang Lee",
+        "category": "$140,000,000"
     },
     {
         "title": "Spies in Disguise",
@@ -438,8 +437,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/A05s7OM-8Oc",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Spies_in_Disguise_Final_Poster.jpeg/220px-Spies_in_Disguise_Final_Poster.jpeg",
-        "director": "Troy Quane, Nick Bruno",
-        "budget": "$100,000,000"
+        "backdrop": "Troy Quane, Nick Bruno",
+        "category": "$100,000,000"
     },
     {
         "title": "Escape Room",
@@ -447,8 +446,8 @@
         "rating": 2019,
         "trailer": "https://youtu.be/6dSKUoV0SNI",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Escape_Room_%282019_poster%29.png/220px-Escape_Room_%282019_poster%29.png",
-        "director": "Adam Robitel",
-        "budget": "Adam Robitel"
+        "backdrop": "Adam Robitel",
+        "category": "Adam Robitel"
     },
     {
         "title": "Pet Sematary",
@@ -456,7 +455,7 @@
         "rating": 2019,
         "trailer": "https://youtu.be/zK0LNzU2TQI",
         "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Pet_Sematary_%282019_poster%29.png/220px-Pet_Sematary_%282019_poster%29.png",
-        "director": "Kevin Kölsch, Dennis Widmyer",
-        "budget": "$21,000,000"
+        "backdrop": "Kevin Kölsch, Dennis Widmyer",
+        "category": "$21,000,000"
     }
 ]

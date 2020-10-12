@@ -19,16 +19,13 @@ module.exports = (sequelize, DataTypes) => {
 				type: DataTypes.STRING,
 				validate: {
 					notEmpty: {
-						msg: "Name must not be empty!",
-					},
+						msg: "Name must be provided"
+					}
 				},
 			},
 			password: {
 				type: DataTypes.STRING,
 				validate: {
-					notEmpty: {
-						msg: "Password must not be empty!",
-					},
 					is: {
 						args: /^(?=[a-zA-Z0-9]*[a-zA-Z])(?=[a-zA-Z0-9]*\d)[a-zA-Z0-9]*$/i,
 						msg: "Please enter alphanumeric password",
@@ -46,7 +43,11 @@ module.exports = (sequelize, DataTypes) => {
 					user.image = "https://cdn.business2community.com/wp-content/uploads/2017/08/blank-profile-picture-973460_640.png";
 				},
 				beforeBulkUpdate(user) {
-					user.attributes.password = encryptPwd(user.attributes.password);
+					if(user.attributes.password == null){
+
+					}else{
+						user.attributes.password = encryptPwd(user.attributes.password);
+					}
 				},
 			},
 			sequelize,

@@ -1,5 +1,5 @@
 const { user,reviews } = require("../models");
-const { decryptPwd } = require("../helpers/bcrpyt");
+const { decryptPwd, encryptPwd } = require("../helpers/bcrpyt");
 const { tokenGenerator } = require("../helpers/jwt");
 
 class UserController {
@@ -54,7 +54,7 @@ class UserController {
 	static async getUserDetails(req,res){
 		const {id} = req.userData;
 		try{
-			const users = user.findOne({where: {id}})
+			const users = await user.findOne({where: {id}})
 			res.status(200).json({users})
 		}catch(err){
 			res.status(500).json({msg: err.errors[0].message})
@@ -63,26 +63,31 @@ class UserController {
 
 	static async updateUser(req, res) {
 		const { id } = req.userData;
-		const { email, password, name } = req.body;
-		const  image  = "nama repo mu"+req.file.path;
 		try {
 			const done = await user.update(
-				{
-					email,
-					password,
-					name,
-					image,
-				},
-				{
-					where: { id },
-					individualHooks: true,
+				(req.body),
+				{	
+					where: { id }
 				}
-			);
+			)
 			res.status(200).json(done);
 		} catch (err) {
-			res.status(500).json({msg: err.errors[0].message});
+			res.status(500).json({err});
 		}
 	}
+
+	// static async updateUserImage(req,res){
+	// 	const {id} = req.userData;
+	// 	const image = req.file.path;
+	// 	try{
+	// 		const updateImg = await user.update({image},
+	// 			{where: {id}}
+	// 			);
+	// 		res.status(200).json({updateImg})
+	// 	}catch(err){
+	// 		res.status(500).json({msg: err.errors[0].message});
+	// 	}
+	// }
 
 	static async register(req, res) {
 		const { email, password, name, role } = req.body;

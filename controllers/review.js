@@ -137,8 +137,7 @@ class ReviewController {
 			res.status(200).json({updated})
 		}catch (err){
 			res.status(500).json({msg: err.errors[0].message})
-		}
-		console.log(rating);		
+		}		
 	}
 }
 module.exports = ReviewController;

@@ -28,12 +28,11 @@ module.exports = (sequelize, DataTypes) => {
 			rating: {
 				type: DataTypes.DOUBLE,
 				validate: {
-					max: 10
+					max: 5
 				}
 			},
 			backdrop: DataTypes.STRING,
-			category: DataTypes.STRING,
-			user_rating: DataTypes.DOUBLE,
+			category: DataTypes.STRING
 		},
 		{
 			sequelize,

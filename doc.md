@@ -58,6 +58,21 @@
 ---
 <br>
 
+
+## Edit(Put) User Image
+---
+### Method PUT (https://quiet-hollows-95792.herokuapp.com/user/edit/image)
+### Request Header
+> "token": "<your_token>"
+### Request Body
+> "email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> "image": "<asset_image>"
+### Response (200)
+>"msg": "User updated successfully"
+### Response (400 - Bad Request)
+>"msg": "<error_msg>"
+---
+<br>
+
 ## Delete User
 ---
 ### Method DELETE (https://quiet-hollows-95792.herokuapp.com/user/)
@@ -78,9 +93,9 @@
 ### Request Header
 > "token": "<your_token>"
 ### Request Body
-> "email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> "image": "<asset_image>"
+> "email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> 
 ### Response (200)
->"email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> "image": "<asset_image>"
+>"msg": "User updated successfully"
 ### Response (400 - Bad Request)
 >"msg": "<error_msg>"
 ---
@@ -173,6 +188,22 @@
 > "title": "<asset_title>"<br> "poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": "<asset_category>"
 ### Response (200)
 > "msg:" "Movie created successfully"
+### Response (400 - Bad Request)
+>"msg": "<error_msg>"
+---
+<br>
+
+## Update Movie Image
+---
+### Method PUT (https://quiet-hollows-95792.herokuapp.com/movie/editMovie/image)
+### Request Header
+> "token": "<your_token>"
+### Request Params
+> "id": "<asset_id>"
+### Request Body
+>"poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>"
+### Response (200)
+> "msg": "Movie updated successfully"
 ### Response (400 - Bad Request)
 >"msg": "<error_msg>"
 ---

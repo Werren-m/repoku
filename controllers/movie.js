@@ -111,10 +111,10 @@ class MovieController {
 
 	static async editMovie(req, res) {
 		const { role } = req.userData;
-		const  id  = req.query.id;
+		const  {id}  = req.query;
+		req.body.rating = Number(req.body.rating);
 		const { title, synopsis, trailer, rating, category } = req.body;
 		const { poster, backdrop } = req.files;
-		const test = Number(rating)
 		if(title == null){
 			res.status(400).json({msg: "Title must be provided"});
 		}
@@ -136,18 +136,36 @@ class MovieController {
 		if(backdrop == null){
 			res.status(400).json({msg: "Backdrop must be provided"});
 		}
-		const postPath = poster[0].path;
-		const backPath = backdrop[0].path;
 
 		try{
 			if (role == "admin") {
 				const update = await Movies.update(
+					(req.body),
+					{ where: {id} }
+				)
+				if(update){
+					res.status(200).json({ msg: "Movie updated successfully" });
+				}else{
+					res.status(200).json({ msg: "Failed" });
+				}
+			}else{
+				res.status(400).json({ msg: "Unauthorized access"})
+			}
+		}catch(err){
+			res.status(500).json({err})
+		}
+	}
+
+	static async editMovieImage(req, res){
+		const { role } = req.userData;
+		const  {id}  = req.query;
+		const { poster, backdrop } = req.files;
+		const postPath = poster[0].path;
+		const backPath = backdrop[0].path;
+		try{
+			if (role == "admin") {
+				const update = await Movies.update(
 					{
-						title,
-						synopsis,
-						trailer,
-						rating: test,
-						category,
 						poster: postPath,
 						backdrop: backPath,
 					},
@@ -164,6 +182,8 @@ class MovieController {
 		}catch(err){
 			res.status(500).json({err})
 		}
+
+
 	}
 
 	static async deleteMovie(req, res) {

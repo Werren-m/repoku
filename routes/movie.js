@@ -16,8 +16,9 @@ router.post(
 );
 
 router.get("/getSingleMovie",  MoviesController.getSingleMovie);
-router.put("/editMovie", auth.authentication,uploadMovie.fields([{ name: "poster" }, { name: "backdrop" }]), MoviesController.editMovie);
+router.put("/editMovie", auth.authentication, MoviesController.editMovie);
 router.get("/editMovie", auth.authentication, MoviesController.editFormMovie);
+router.put("/editMovie/image", auth.authentication,uploadMovie.fields([{ name: "poster" }, { name: "backdrop" }]), MoviesController.editFormMovie);
 router.delete("/", auth.authentication, MoviesController.deleteMovie);
 
 module.exports = router;
