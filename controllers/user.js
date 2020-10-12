@@ -43,18 +43,28 @@ class UserController {
 	static async getUser(req, res) {
 		const { id } = req.userData;
 		try{
-			const test = await reviews.findAll({where: {userId: id,isVisible: "true"}})
+			const review = await reviews.findAll({where: {userId: id,isVisible: "true"}})
 			const users = await user.findOne({where: {id}})
-			res.status(200).json({users,test})
+			res.status(200).json({users,review})
 		}catch (err) {
-			res.status(500).json(err)
+			res.status(500).json({msg: err.errors[0].message})
+		}
+	}
+
+	static async getUserDetails(req,res){
+		const {id} = req.userData;
+		try{
+			const users = user.findOne({where: {id}})
+			res.status(200).json({users})
+		}catch(err){
+			res.status(500).json({msg: err.errors[0].message})
 		}
 	}
 
 	static async updateUser(req, res) {
 		const { id } = req.userData;
 		const { email, password, name } = req.body;
-		const  image  = req.file.path;
+		const  image  = "nama repo mu"+req.file.path;
 		try {
 			const done = await user.update(
 				{
