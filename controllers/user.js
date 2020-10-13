@@ -70,7 +70,8 @@ class UserController {
 					where: { id }
 				}
 			)
-			res.status(200).json({done,msg: "Update successful"});
+			const token = tokenGenerator(done);
+			res.status(200).json({done,token,msg: "Update successful"});
 		} catch (err) {
 			res.status(500).json({err});
 		}
@@ -83,7 +84,8 @@ class UserController {
 			const updateImg = await user.update({image},
 				{where: {id}}
 				);
-			res.status(200).json({updateImg,msg: "Update successful"})
+				const token = tokenGenerator(updateImg);
+			res.status(200).json({updateImg,token,msg: "Update successful"})
 		}catch(err){
 			res.status(500).json({msg: err.errors[0].message});
 		}
