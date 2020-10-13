@@ -52,7 +52,7 @@
 ### Request Body
 > none
 ### Response (200)
->"email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>" <br> "image": "<asset_image>"
+>"email": "<asset_email>"<br> "password": "<asset_password>" <br> "name": "<asset_name>"
 ### Response (400 - Bad Request)
 >"msg": "<error_msg>"
 ---
@@ -217,9 +217,9 @@
 ### Request Params
 > "id": "<asset_id>"
 ### Request Body
-> "title": "<asset_title>"<br> "poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": "<asset_category>"
+> "title": "<asset_title>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": "<asset_category>"
 ### Response (200)
-> "title": "<asset_title>"<br> "poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": 
+> "title": "<asset_title>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": 
 ### Response (400 - Bad Request)
 >"msg": "<error_msg>"
 ---
@@ -235,7 +235,7 @@
 ### Request Body
 > none
 ### Response (200)
-> "title": "<asset_title>"<br> "poster": "<asset_poster>" <br> "backdrop": "<asset_backdrop>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": 
+> "title": "<asset_title>" <br> "synopsis": "<asset_synopsis>" <br> "trailer": "<URL_asset_trailer>" <br> "rating": "<asset_rating>" <br> "category": 
 ### Response (400 - Bad Request)
 >"msg": "<error_msg>"
 ---
