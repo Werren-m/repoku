@@ -70,7 +70,8 @@ class UserController {
 					where: { id }
 				}
 			)
-			const token = tokenGenerator(done);
+			const dones = await user.findOne({where: {id}})
+			const token = tokenGenerator(dones);
 			res.status(200).json({done,token,msg: "Update successful"});
 		} catch (err) {
 			res.status(500).json({err});
@@ -84,8 +85,8 @@ class UserController {
 			const updateImg = await user.update({image},
 				{where: {id}}
 				);
-				const token = tokenGenerator(updateImg);
-			res.status(200).json({updateImg,token,msg: "Update successful"})
+			const done = await user.findOne({where: {id}})
+			res.status(200).json({updateImg,done,token,msg: "Update successful"})
 		}catch(err){
 			res.status(500).json({msg: err.errors[0].message});
 		}
