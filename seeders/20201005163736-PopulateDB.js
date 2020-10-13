@@ -13,7 +13,7 @@ module.exports = {
 		 */
 
 		const fs = require("fs");
-		const parseData = JSON.parse(fs.readFileSync("./seed.json", "utf8"));
+		const parseData = JSON.parse(fs.readFileSync("./test.json", "utf8"));
 		const movieData = [];
 		parseData.forEach((el) => {
 			const {
