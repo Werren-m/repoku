@@ -5,7 +5,7 @@
         "rating": 3,
         "trailer": "https://youtu.be/7OE6Fcr0XcY",
         "poster": "uploads/movie/.png",
-        "backdrop": "/uploads/movie/365-Days_backdrop.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/365-Days_backdrop.jpg",
         "category": "Romance, Drama"
     },
     {
@@ -14,7 +14,7 @@
         "rating": 3,
         "trailer": "https://youtu.be/KK8FHdFluOQ",
         "poster": "uploads/movie/.jpg",
-        "backdrop": "/uploads/movie/365-Days_backdrop.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/365-Days_backdrop.jpg",
         "category": "Action, Adventure"
     },
     {
@@ -23,7 +23,7 @@
         "rating": 3.5,
         "trailer": "https://youtu.be/TcMBFSGVi1c",
         "poster": "uploads/movie/.jpg",
-        "backdrop": "/uploads/movie/avenger_backdrop.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/avenger_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -32,7 +32,7 @@
         "rating": 3.5,
         "trailer": "https://youtu.be/zAGVQLHvwOY",
         "poster": "uploads/movie/220px-Joker_(2019_film)_poster.jpg",
-        "backdrop": "/uploads/movie/Joker-Backdrop.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Joker-Backdrop.jpg",
         "category": "Drama"
     },
     {
@@ -40,8 +40,8 @@
         "synopsis": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool.",
         "rating": 4,
         "trailer": "https://youtu.be/ONHBaC-pfsk",
-        "poster": "/uploads/movie/220px-Deadpool_(2016_poster).png",
-        "backdrop": "/uploads/movie/deadpool_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Deadpool_(2016_poster).png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/deadpool_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -49,8 +49,8 @@
         "synopsis": "After surviving a near fatal bovine attack, a disfigured cafeteria chef struggles to fulfill his dream of becoming Mayberry’s hottest bartender while also learning to cope with his lost sense of taste.",
         "rating": 3,
         "trailer": "https://youtu.be/D86RtevtfrA",
-        "poster": "/uploads/movie/Deadpool_2_poster.jpg",
-        "backdrop": "/uploads/movie/deadpool2_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Deadpool_2_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/deadpool2_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -58,8 +58,8 @@
         "synopsis": "Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix?",
         "rating": 4,
         "trailer": "https://youtu.be/hMbexEPAOQI",
-        "poster": "/uploads/movie/Poster_-_The_Matrix_Reloaded.jpg",
-        "backdrop": "/uploads/movie/the-matrix_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Poster_-_The_Matrix_Reloaded.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/the-matrix_backdrop.jpg",
         "category": "Action, Drama "
     },
     {
@@ -67,8 +67,8 @@
         "synopsis": "When children begin to disappear in the town of Derry, Maine, a group of young kids are faced with their biggest fears when they square off against an evil clown named Pennywise.",
         "rating": 2,
         "trailer": "https://youtu.be/FnCdOQsX5kc",
-        "poster": "/uploads/movie/It_(2017)_poster.jpg",
-        "backdrop": "/uploads/movie/it_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/It_(2017)_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/it_backdrop.jpg",
         "category": "Horror, Thriller"
     },
     {
@@ -76,8 +76,8 @@
         "synopsis": "Defeated by members of the Losers' Club, the evil clown Pennywise returns 27 ratings later to terrorize the town of Derry, Maine, once again. Now adults, the childhood friends have long since gone their separate ways.",
         "rating": 1,
         "trailer": "https://youtu.be/bKL1ImsN-DU",
-        "poster": "/uploads/movie/220px-ItChapterTwoTeaser.jpg",
-        "backdrop": "/uploads/movie/it-2_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-ItChapterTwoTeaser.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/it-2_backdrop.jpg",
         "category": "Horror, Thriller"
     },
     {
@@ -85,8 +85,8 @@
         "synopsis": "In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan’s attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.",
         "rating": 3,
         "trailer": "https://youtu.be/gbug3zTm3Ws",
-        "poster": "/uploads/movie/Logan_2017_poster.jpg",
-        "backdrop": "/uploads/movie/logan_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Logan_2017_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/logan_backdrop.jpg",
         "category": "Action, Drama"
     },
     {
@@ -94,8 +94,8 @@
         "synopsis": "When college senior Anastasia Steele (Dakota Johnson) steps in for her sick roommate to interview prominent businessman Christian Grey (Jamie Dornan) for their campus paper, little does she realize the path her life will take.",
         "rating": 4,
         "trailer": "https://youtu.be/SfZWFDs0LxA",
-        "poster": "/uploads/movie/Fifty_Shades_of_Grey_poster.jpg",
-        "backdrop": "/uploads/movie/50shadesGrey_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Fifty_Shades_of_Grey_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/50shadesGrey_backdrop.jpg",
         "category": "Romance, Drama"
     },
     {
@@ -103,8 +103,8 @@
         "synopsis": "TED tells the story of John Bennett, a grown man who must deal with the cherished teddy bear who came to life as the result of a childhood wish...and has refused to leave his side ever since",
         "rating": 5,
         "trailer": "https://youtu.be/9fbo_pQvU7M",
-        "poster": "/uploads/movie/Ted_poster.jpg",
-        "backdrop": "/uploads/movie/ted1_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Ted_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/ted1_backdrop.jpg",
         "category": "Comedy, Drama"
     },
     {
@@ -112,8 +112,8 @@
         "synopsis": "Life has changed drastically for thunder buddies John, now a bachelor, and best pal Ted, now married to the woman of his dreams. Problems arise when the couple decide to adopt a child, but the law declares Ted to be property and not a person.",
         "rating": 4,
         "trailer": "https://youtu.be/S3AVcCggRnU",
-        "poster": "/uploads/movie/220px-Ted_2_poster.jpg",
-        "backdrop": "/uploads/movie/ted2_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Ted_2_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/ted2_backdrop.jpg",
         "category": "Comedy, Drama"
     },
     {
@@ -121,8 +121,8 @@
         "synopsis": "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub’s arrival. Scar, Mufasa’s brother—and former heir to the throne—has plans of his own.",
         "rating": 3,
         "trailer": "https://youtu.be/7TavVZMewpY",
-        "poster": "/uploads/movie/Disney_The_Lion_King_2019.jpg",
-        "backdrop": "/uploads/movie/lionking_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Disney_The_Lion_King_2019.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/lionking_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -130,8 +130,8 @@
         "synopsis": "Why was Elsa born with magical powers? The answer is calling her and threatening her kingdom. Together with Anna, Kristoff, Olaf and Sven, she’ll set out on a dangerous but remarkable journey.",
         "rating": 2.5,
         "trailer": "https://youtu.be/Zi4LMpSDccc",
-        "poster": "/uploads/movie/220px-Frozen_2_poster.jpg",
-        "backdrop": "/uploads/movie/fronzen2_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Frozen_2_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/fronzen2_backdrop.jpg",
         "category": "Animation"
     },
     {
@@ -140,7 +140,7 @@
         "rating": 3,
         "trailer": "https://youtu.be/DYYtuKyMtY8",
         "poster": "uploads/movie/Spider-Man_Far_From_Home_poster.jpg",
-        "backdrop": "/uploads/movie/spiderman_backdrop.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/spiderman_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -148,8 +148,8 @@
         "synopsis": "The story follows Carol Danvers as she becomes one of the universe’s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
         "rating": 1.5,
         "trailer": "https://youtu.be/moY78qMJuxM",
-        "poster": "/uploads/movie/Captain_Marvel_poster.jpg",
-        "backdrop": "/uploads/movie/captmarvel_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Captain_Marvel_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/captmarvel_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -157,8 +157,8 @@
         "synopsis": "Woody has always been confident about his place in the world, and that his priority is taking care of his kid, whether that’s Andy or Bonnie. So when Bonnie’s beloved new craft-project-turned-toy, Forky, declares himself as “trash” and not a toy.",
         "rating": 1,
         "trailer": "https://youtu.be/wmiIUN-7qhE",
-        "poster": "/uploads/movie/Toy_Story_4_poster.jpg",
-        "backdrop": "/uploads/movie/toy-story4_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Toy_Story_4_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/toy-story4_backdrop.jpg",
         "category": "Animation"
     },
     {
@@ -166,8 +166,8 @@
         "synopsis": "No one’s ever really gone… Rey’s journey continues and the Skywalker saga concludes.",
         "rating": 3,
         "trailer": "https://youtu.be/8Qn_spdM5Zg",
-        "poster": "/uploads/movie/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
-        "backdrop": "/uploads/movie/Star-Wars-The-Rise-of-Skywalker-backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Star_Wars_The_Rise_of_Skywalker_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Star-Wars-The-Rise-of-Skywalker-backdrop.jpg",
         "category": "Action"
     },
     {
@@ -175,8 +175,8 @@
         "synopsis": "The gang is back but the game has changed. As they return to Jumanji to rescue one of their own, they discover that nothing is as they expect.",
         "rating": 3.5,
         "trailer": "https://youtu.be/rBxcF-r9Ibs",
-        "poster": "/uploads/movie/220px-JumanjiTheNextLevelTeaserPoster.jpg",
-        "backdrop": "/uploads/movie/jumanji_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-JumanjiTheNextLevelTeaserPoster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/jumanji_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -184,8 +184,8 @@
         "synopsis": "Ever since hulking lawman Hobbs, a loyal agent of America’s Diplomatic Security Service, and lawless outcast Shaw, a former British military elite operative.",
         "rating": 4,
         "trailer": "https://youtu.be/9SA7FaKxZVI",
-        "poster": "/uploads/movie/Fast_&_Furious_Presents_Hobbs_&_Shaw_-_theatrical_poster.jpg",
-        "backdrop": "/uploads/movie/hobbs-shaw_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Fast_&_Furious_Presents_Hobbs_&_Shaw_-_theatrical_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/hobbs-shaw_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -193,8 +193,8 @@
         "synopsis": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away.",
         "rating": 3,
         "trailer": "https://youtu.be/SkcucKDrbOI",
-        "poster": "/uploads/movie/How_to_Train_Your_Dragon_3_poster.png",
-        "backdrop": "/uploads/movie/how_to_train_your_dragon_3_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/How_to_Train_Your_Dragon_3_poster.png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/how_to_train_your_dragon_3_backdrop.jpg",
         "category": "Animation, Action, Adventure"
     },
     {
@@ -202,8 +202,8 @@
         "synopsis": "The film continues to explore the complex relationship between the horned fairy and the soon to be Queen as they form new alliances and face new adversaries in their struggle to protect the moors and the magical creatures that reside within.",
         "rating": 2,
         "trailer": "https://youtu.be/n0OFH4xpPr4",
-        "poster": "/uploads/movie/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png",
-        "backdrop": "/uploads/movie/maleficent_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Maleficent_Mistress_of_Evil_(Official_Film_Poster).png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/maleficent_backdrop.jpg",
         "category": "Action, Romance, Drama"
     },
     {
@@ -211,8 +211,8 @@
         "synopsis": "Terrier Max is coping with some major life changes. His owner is now married and has a toddler, Liam. Max is so worried about protecting the boy that he develops a nervous tic.",
         "rating": 3,
         "trailer": "https://youtu.be/mYocfuqu2A8",
-        "poster": "/uploads/movie/220px-The_Secret_Life_of_Pets_2_(2019)_Final_Poster.jpg",
-        "backdrop": "/uploads/movie/The-Secret-Life-of-Pets-2-backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-The_Secret_Life_of_Pets_2_(2019)_Final_Poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/The-Secret-Life-of-Pets-2-backdrop.jpg",
         "category": "Animation, Comedy, Drama"
     },
     {
@@ -220,8 +220,8 @@
         "synopsis": "The story begins when ace detective Harry Goodman goes mysteriously missing, prompting his 21 year old son Tim to find out what happened. Aiding in the investigation is Harry’s former Pokemon partner.",
         "rating": 4,
         "trailer": "https://youtu.be/du88WArjb8w",
-        "poster": "/uploads/movie/220px-Pokémon_Detective_Pikachu_teaser_poster.jpg",
-        "backdrop": "/uploads/movie/detective-pikachu_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Pokémon_Detective_Pikachu_teaser_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/detective-pikachu_backdrop.jpg",
         "category": "Action, Drama, Mystery"
     },
     {
@@ -229,8 +229,8 @@
         "synopsis": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido,who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
         "rating": 4.5,
         "trailer": "https://youtu.be/w7pYhpJaJW8",
-        "poster": "/uploads/movie/220px-Alita_Battle_Angel_(2019_poster).png",
-        "backdrop": "/uploads/movie/alita_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Alita_Battle_Angel_(2019_poster).png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/alita_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -238,8 +238,8 @@
         "synopsis": "An action adventure that pits Godzilla against some of the most popular monsters in pop culture history.",
         "rating": 3,
         "trailer": "https://youtu.be/QFxN2oDKk0E",
-        "poster": "/uploads/movie/220px-Godzilla_–_King_of_the_Monsters_(2019)_poster.png",
-        "backdrop": "/uploads/movie/godzilla_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Godzilla_–_King_of_the_Monsters_(2019)_poster.png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/godzilla_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -247,8 +247,8 @@
         "synopsis": "1969 Los Angeles, where everything is changing, as TV star Rick Dalton and his longtime stunt double Cliff Booth make their way around an industry they hardly recognize anymore.",
         "rating": 3.5,
         "trailer": "https://youtu.be/ELeMaP8EPAA",
-        "poster": "/uploads/movie/220px-Once_Upon_a_Time_in_Hollywood_poster.png",
-        "backdrop": "/uploads/movie/once-upon_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Once_Upon_a_Time_in_Hollywood_poster.png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/once-upon_backdrop.jpg",
         "category": "Drama, Comedy"
     },
     {
@@ -256,8 +256,8 @@
         "synopsis": "At the height of the First World War, two young British soldiers, Schofield and Blake are given a seemingly impossible mission.",
         "rating": 2.5,
         "trailer": "https://youtu.be/YqNYrYUiMfg",
-        "poster": "/uploads/movie/1917.jpg",
-        "backdrop": "/uploads/movie/1917_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/1917.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/1917_backdrop.jpg",
         "category": "Military, Action, Drama"
     },
     {
@@ -265,8 +265,8 @@
         "synopsis": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson’s case, by shouting out one word—SHAZAM!—this streetwise 14-year-old foster kid can turn into the adult Super Hero Shazam, courtesy of an ancient wizard.",
         "rating": 3,
         "trailer": "https://youtu.be/go6GEIrcvFY",
-        "poster": "/uploads/movie/220px-Shazam!_theatrical_poster.jpg",
-        "backdrop": "/uploads/movie/Shazam-Backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Shazam!_theatrical_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Shazam-Backdrop.jpg",
         "category": "Action"
     },
     {
@@ -274,8 +274,8 @@
         "synopsis": "Meet Dumbo, Mrs. Jumbo’s sweet little “Baby Mine” who charms all who see him… until it’s discovered that he has huge floppy ears! With his very best friend, Timothy the mouse, Dumbo soon learns that his spectacular ears make him unique and special.",
         "rating": 2,
         "trailer": "https://youtu.be/-QPdRfqTnt4",
-        "poster": "/uploads/movie/220px-Dumbo_(2019_film).png",
-        "backdrop": "/uploads/movie/dumbo_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Dumbo_(2019_film).png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/dumbo_backdrop.jpg",
         "category": "Comedy, Drama"
     },
     {
@@ -283,8 +283,8 @@
         "synopsis": "John Wick returns with a $14 million price tag on his head. After killing a member of the shadowy international assassin’s guild, the High Table, the world’s most ruthless hit men and women await his every turn.",
         "rating": 4,
         "trailer": "https://youtu.be/pU8-7BX9uxs",
-        "poster": "/uploads/movie/220px-John_Wick_Chapter_3_Parabellum.png",
-        "backdrop": "/uploads/movie/johnwick3_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-John_Wick_Chapter_3_Parabellum.png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/johnwick3_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -292,8 +292,8 @@
         "synopsis": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate.",
         "rating": 5,
         "trailer": "https://youtu.be/sL-9Khv7wa4",
-        "poster": "/uploads/movie/Knives_Out_poster.jpeg",
-        "backdrop": "/uploads/movie/knivesOut_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Knives_Out_poster.jpeg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/knivesOut_backdrop.jpg",
         "category": "Drama, Thriller"
     },
     {
@@ -301,8 +301,8 @@
         "synopsis": "Haunted by an unexplainable and unresolved trauma from her past and compounded by a string of eerie coincidences, Adelaide feels her paranoia elevate to high-alert as she grows increasingly certain that something bad is going to befall her family.",
         "rating": 3,
         "trailer": "https://youtu.be/hNCmb-4oXJA",
-        "poster": "/uploads/movie/220px-Us_(2019)_theatrical_poster.jpg",
-        "backdrop": "/uploads/movie/us_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Us_(2019)_theatrical_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/us_backdrop.jpg",
         "category": "Horror, Thriller, Drama"
     },
     {
@@ -310,8 +310,8 @@
         "synopsis": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.",
         "rating": 4,
         "trailer": "https://youtu.be/BV-WEb2oxLk",
-        "poster": "/uploads/movie/Men_in_Black_International_(Official_Film_Poster).png",
-        "backdrop": "/uploads/movie/mib-inter_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/Men_in_Black_International_(Official_Film_Poster).png",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/mib-inter_backdrop.jpg",
         "category": "Action"
     },
     {
@@ -319,8 +319,8 @@
         "synopsis": "27 years after the events of Terminator 2: Judgment Day, a new, modified liquid metal Terminator is sent from the future by Skynet in order to terminate Dani Ramos, a hybrid cyborg human, and her friends.",
         "rating": 2,
         "trailer": "https://youtu.be/oxy8udgWRmo",
-        "poster": "/uploads/movie/220px-Terminator_Dark_Fate_poster.jpg",
-        "backdrop": "/uploads/movie/terminator_backdrop.jpg",
+        "poster": "https://warm-bastion-18573.herokuapp.com//uploads/movie/220px-Terminator_Dark_Fate_poster.jpg",
+        "backdrop": "https://warm-bastion-18573.herokuapp.com//uploads/movie/terminator_backdrop.jpg",
         "category": "Action"
     }
 ]
